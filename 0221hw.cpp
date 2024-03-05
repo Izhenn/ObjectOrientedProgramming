@@ -1,3 +1,4 @@
+//設計一個n階乘程式，可以精確計算到50個位數
 #include<iostream>
 using namespace std;
 int main(){
